@@ -1,0 +1,15 @@
+
+    /* font-family: Scheherazade-Bold; */
+/* @font-face
+{
+    font-family: "Scheherazade-Bold";
+    scr: url('../Scheherazade/Scheherazade-Bold.ttf') format("ttf")
+}
+ */
+
+
+@font-face {
+    font-family: "Scheherazade-Regular";
+    src: url("../Scheherazade/Scheherazade-Bold.ttf") format("ttf"),
+         url("../Scheherazade/Scheherazade-Regular.ttf") format("ttf");
+  }
